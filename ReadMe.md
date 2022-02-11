@@ -11,7 +11,7 @@ Some of the features of the app as of writing of the Readme are as follows:
 - Dumb APIs from APIMocha integrated [500 requests/24 hr period]
 - Multiple Users with different cases like Currency or Card Details that can be retrieved by tapping on the `Load Another Card`
 - Custom Splash Screen
-- UI Tested on Devices of highly varying screen sizes [Screenshots shared in a later section]
+- UI Tested on Devices of highly varying screen sizes 
 
 ## Running the App
 
@@ -24,7 +24,7 @@ git init
 ```
 4. Then clone this repository in your initialized repo.
 ```sh
-git clone https://github.com/mohitnain16/qatask
+git clone https://github.com/mohitnain16/Assignment
 ```
 5. Now run the following commands to set up Node Modules required for the project.
 ```
