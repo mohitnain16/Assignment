@@ -28,7 +28,7 @@ git clone https://github.com/mohitnain16/Assignment
 ```
 5. Now run the following commands to set up Node Modules required for the project.
 ```
-npm install
+yarn install
 ```
 6. Start the expo server by typing
 ```
